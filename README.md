@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @MahanaElbana
-- 👀 I’m interested in ...
+<h1>Hi, I'm Mahney 👋</h1>
+
+- 👋 Hi, I’m Mahana Elbana
+- 👀 I’m interested in Flutter mobile applications && django rest-frame-work API
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<h1>Hi, I'm Mahney 👋</h1>
+
 
 <p >
     <a href="https://twitter.com/mahney012"><img src="https://img.shields.io/badge/@mahney012-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>  
