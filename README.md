@@ -1,8 +1,8 @@
 
 <h1>Hi, I'm Mahney 👋</h1>
 
-
-![Python](https://github-readme-streak-stats.herokuapp.com/?user={MahanaElbana})
+<p>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user={MahanaElbana}">
 
 <p >
     <a href="https://twitter.com/mahney012"><img src="https://img.shields.io/badge/@mahney012-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>  
