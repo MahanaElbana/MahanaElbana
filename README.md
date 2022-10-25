@@ -1,11 +1,3 @@
-<h1>Hi, I'm Mahney 👋</h1>
-
-- 👋 Hi, I’m Mahana Elbana
-- 👀 I’m interested in Flutter mobile applications && django rest-frame-work API
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 
 
 <p >
