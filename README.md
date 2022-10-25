@@ -35,4 +35,4 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Manjaro](https://img.shields.io/badge/Manjaro-00ff00?style=for-the-badge&logo=manjaro&logoColor=white)
+[![Manjaro](https://img.shields.io/badge/Manjaro-00ff00?style=for-the-badge&logo=manjaro&logoColor=white)](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
