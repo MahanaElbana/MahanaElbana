@@ -1,9 +1,8 @@
 
 <h1>Hi, I'm Mahney 👋</h1>
 
-- 👀 I’m interested in .......
 
-![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 <p >
     <a href="https://twitter.com/mahney012"><img src="https://img.shields.io/badge/@mahney012-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>  
@@ -34,5 +33,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/Manjaro-00ff00?style=for-the-badge&logo=manjaro&logoColor=white)
