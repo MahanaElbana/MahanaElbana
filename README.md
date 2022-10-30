@@ -1,6 +1,7 @@
 
 <h1>Hi, I'm Mahney 👋</h1>
 
+💙 I'm in love with GNU Linux. I used it on my regular system for many years . I love Arch Linux and Debian.
 <p>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user={MahanaElbana}">
 
