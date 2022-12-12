@@ -18,7 +18,7 @@
 <p>
 <a href="https://github.com/MahanaElbana">
   <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=MahanaElbana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahanaElbana&layout=compact&theme=algolia"/>
 </a>
 </p>
 
