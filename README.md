@@ -13,13 +13,7 @@
     <a href="https://www.youtube.com/channel/UCSlIdbgGlv8IaqqC65GmjGw"><img src="https://img.shields.io/badge/@cbmbbmj-c4302b?style=flat&logo=youtube&logoColor=white"/></a>  
     <a href="https://www.facebook.com/profile.php?id=100006134021138"><img src="https://img.shields.io/badge/@mahney%20Elbana-%230177B5?style=flat&logo=facebook&logoColor=white"/></a>  
   </p>
-  
-<p>
-<a href="https://github.com/MahanaElbana">
-  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=MahanaElbana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahanaElbana&layout=compact&theme=algolia"/>
-</a>
-</p>
+
 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
