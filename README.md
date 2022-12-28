@@ -2,7 +2,7 @@
 <h1 align="center"> Hi, I'm Mahney 👋</h1> </center>
 
  - 💙 I'm in love with GNU Linux. I used it on my regular system for many years . I love Arch Linux and Debian.
- - 🌱 Building Full Stack Mobile Applications with Python/Django + Flutter/Dart.
+ - 🌱 Building Full Stack Mobile Applications with (Python/Django)||(Firebase/Google) + Flutter/Dart .
 
 <p>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user={MahanaElbana}">
