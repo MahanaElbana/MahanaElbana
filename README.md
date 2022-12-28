@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://github-readme-streak-stats.herokuapp.com/?user={MahanaElbana}">
 
-<p >
+<p align="center">
     <a href="https://twitter.com/mahney012"><img src="https://img.shields.io/badge/@mahney012-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>  
     <a href="https://www.linkedin.com/in/mahney-elbana-ab89351ba/"><img src="https://img.shields.io/badge/@cbmbbmj-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>   
     <a href="https://www.youtube.com/channel/UCSlIdbgGlv8IaqqC65GmjGw"><img src="https://img.shields.io/badge/@cbmbbmj-c4302b?style=flat&logo=youtube&logoColor=white"/></a>  
