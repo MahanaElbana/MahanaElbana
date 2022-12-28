@@ -4,7 +4,7 @@
  - 💙 My favourite operating system is Linux, especially its Debian (Ubuntu) distribution .
  - 🌱 Building Full Stack Mobile Applications with (Python/Django)||(Firebase/Google) + Flutter/Dart .
 
-<p>
+<p align="center">
 <a href="https://github-readme-streak-stats.herokuapp.com/?user={MahanaElbana}">
 
 <p >
