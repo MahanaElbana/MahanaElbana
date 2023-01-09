@@ -22,7 +22,7 @@
 </a>
 </p>
 
- <p align="center">
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
@@ -31,7 +31,7 @@
 ![github](https://img.shields.io/badge/-github-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=Markdown)&nbsp;
 ![VS Code](https://img.shields.io/badge/-visualstudiocode-05122A?style=flat&logo=visual-studio-code)&nbsp;
-</p>
+
  
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
